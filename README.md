@@ -17,6 +17,8 @@ Small calculator service used to validate the Autonomous Coding Harness against 
 
 - Multiply numbers
 
+- Divide numbers
+
 - Format calculation results
 
 - Store calculation history
