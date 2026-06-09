@@ -41,3 +41,13 @@ def test_calculate_quotient_by_zero():
 
         calculate_quotient(5, 0)
 
+
+
+def test_calculate_quotient_negative():
+
+    assert calculate_quotient(-10, 2) == "quotient: -5.0"
+
+    assert calculate_quotient(10, -2) == "quotient: -5.0"
+
+    assert calculate_quotient(-10, -2) == "quotient: 5.0"
+

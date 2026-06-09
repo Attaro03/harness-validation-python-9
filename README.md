@@ -17,7 +17,7 @@ Small calculator service used to validate the Autonomous Coding Harness against 
 
 - Multiply numbers
 
-- Divide numbers
+- Divide numbers (including negative operand coverage)
 
 - Format calculation results
 
