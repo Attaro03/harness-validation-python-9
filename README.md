@@ -21,7 +21,7 @@ Small calculator service used to validate the Autonomous Coding Harness against 
 
 - Format calculation results
 
-- Store calculation history
+- Store calculation history (entries returned as a defensive copy)
 
 
 
