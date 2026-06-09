@@ -43,3 +43,15 @@ def test_divide_by_zero():
 
         divide(5, 0)
 
+
+
+def test_divide_negative_operands():
+
+    assert divide(-10, 2) == -5.0
+
+    assert divide(10, -2) == -5.0
+
+    assert divide(-10, -2) == 5.0
+
+    assert divide(-7, 3) == -7 / 3
+
